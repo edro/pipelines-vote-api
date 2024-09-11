@@ -1,1 +1,1 @@
-# tekton-pipelines-demo edro edition
+# tekton-pipelines-demo
